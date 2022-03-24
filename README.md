@@ -6,7 +6,7 @@ I am constantly trying to grow and refine my skills or learn something new. Asid
 
 ### 🌱 My Focus 
 
-I am currently refining my fullstack development skills for my capstone project, as well as continuing to expand my knowledge in Machine Learning technologies and implementations. 
+I am currently refining my fullstack development skills using MEAN stack for my capstone project, as well as continuing to expand my knowledge in Machine Learning technologies and implementations. 
 
 <!--
 **jayz922/jayz922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
